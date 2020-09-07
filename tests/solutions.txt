@@ -1,0 +1,87 @@
+Soltions
+
+*** Problem PUB1 ***
+Execution time: 0.000866 secs
+
+Output:
+S CS-TUA 0800 LPMA LPPT 1105 LPPT LPMA
+S CS-TVA 0800 LPFR LPPT 0930 LPPT LPPR 1110 LPPR LPPT 1250 LPPT LPFR
+P 600.0
+
+Solved with profit 600.0
+
+
+*** Problem PUB2 ***
+Execution time: 0.001150 secs
+
+Output:
+S CS-TUA 0800 LPMA LPPT 1105 LPPT LPMA 1410 LPMA LPPR 1725 LPPR LPMA
+S CS-TVA 0600 LPPT LPPR 0740 LPPR LPPT 0920 LPPT LPFR 1050 LPFR LPPT
+P 800.0
+
+Solved with profit 800.0
+
+
+*** Problem PUB3 ***
+Execution time: 0.000928 secs
+
+Output:
+S CS-TVA 0800 LPFR LPPT 0930 LPPT LPPR 1110 LPPR LPPT 1250 LPPT LPFR
+P 360.0
+
+Solved with profit 360.0
+
+
+*** Problem PUB4 ***
+Execution time: 0.001015 secs
+
+Output:
+S CS-TUA 0800 LPMA LPPT 1105 LPPT LPMA
+S CS-TVA 0800 LPFR LPPT 0930 LPPT LPPR 1110 LPPR LPPT 1250 LPPT LPFR
+P 600.0
+
+Solved with profit 600.0
+
+
+*** Problem PUB5 ***
+Execution time: 0.001836 secs
+
+Output:
+S CS-TUA 0800 LPMA LPPT 1105 LPPT LPMA 1410 LPMA LPPR 1725 LPPR LPMA
+S CS-TVA 0600 LPPR LPPT 0740 LPPT LPPR
+S CS-TVB 0800 LPFR LPPT 0930 LPPT LPFR
+P 800.0
+
+Solved with profit 800.0
+
+
+*** Problem PUB6 ***
+Execution time: 0.018943 secs
+
+Output:
+Infeasible
+
+Found infeasible
+
+
+*** Problem PUB7 ***
+Execution time: 0.014033 secs
+
+Output:
+S TF-ISP 0500 BIRK LFPG 0935 LFPG BIRK
+S TF-ISY 0600 EGKK BIRK 1000 BIRK EDDF 1420 EDDF BIRK 1845 BIRK EGKK
+P 2060.0
+
+Solved with profit 2060.0
+
+
+*** Problem PUB8 ***
+Execution time: 0.002995 secs
+
+Output:
+S CS-TUA 0800 LPMA LPPT 1105 LPPT LPMA 1410 LPMA LPPR 1725 LPPR LPMA
+S CS-TVA 0600 LPPR LPPT 0740 LPPT LPPR
+S CS-TVB 0800 LPFR LPPT 0930 LPPT LPFR
+P 800.0
+
+Solved with profit 800.0
