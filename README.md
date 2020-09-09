@@ -6,7 +6,7 @@ The A* algorithm, which is an informed search algorithm, was implemented. With a
 
 At each iteration, the algorithm must choose the path that optimizes:
 
-###### f(n) = g(n) + h(n)
+##### f(n) = g(n) + h(n)
 
 where g(n) represents the cost of the past from the start to the current node n and h(n) the heuristic function that estimates the cheapest path from the current node until the end. 
 
