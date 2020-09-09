@@ -12,7 +12,7 @@ where g(n) represents the cost of the past from the start to the current node n 
 
 The heuristic function was defined as:
 
-h += (1/max_profit)
+### h += (1/max_profit)
 
 this was, by minimizing the heuristic function, the solution with maximum profit is found. The same strategy was used to define the cost function
 
